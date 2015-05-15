@@ -1,0 +1,19 @@
+{
+  "name": "pythonreacttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-host": "^0.11.3",
+    "node-libs-browser": "^0.5.0",
+    "react": "^0.13.3",
+    "react-render": "^0.2.4",
+    "webpack": "^1.9.5",
+    "webpack-service": "^0.1.1"
+  }
+}
